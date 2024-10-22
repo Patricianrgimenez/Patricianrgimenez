@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Patricianrgimenez/Patricianrgimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Patricia Gimenez
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Formação Acadêmica:**
+- **Graduação:** Desenho Industrial
+- **Especialização:** Comunicação Visual
+
+**Certificações:**
+- Curso de Auditoria em Qualidade - ISO 9000
+
+**Habilidades Técnicas:**
+- Design e desenvolvimento de projetos visuais
+- Criação de identidade visual e branding
+- Análise de dados e relatórios utilizando Power BI (em andamento)
+
+**Experiência Profissional:**
+- [Descrever brevemente experiências anteriores, se aplicável, incluindo cargos, empresas e responsabilidades]
+
+**Competências:**
+- Criatividade e atenção aos detalhes
+- Habilidade em trabalhar em equipe e comunicar ideias de forma eficaz
+- Proatividade na busca por soluções inovadoras
+
+**Interesses:**
+- Aperfeiçoamento contínuo em ferramentas de visualização de dados e design
+
+---
+
+Sinta-se à vontade para ajustar ou adicionar informações específicas que você gostaria de incluir!
